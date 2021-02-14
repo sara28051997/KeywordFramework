@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="86524" started-at="2021-02-14T04:26:55Z" finished-at="2021-02-14T04:28:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="86524" started-at="2021-02-14T04:26:55Z" finished-at="2021-02-14T04:28:21Z">
+      <class name="KeywordFramework.ExecuteTest">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:KeywordFramework.ExecuteTest@7bc1a03d]" name="testLogin" duration-ms="86428" started-at="2021-02-14T09:56:55Z" finished-at="2021-02-14T09:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- KeywordFramework.ExecuteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
